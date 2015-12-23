@@ -5,3 +5,5 @@
 * Check citation format and bibliography
 * Produce figure files (Smith_Fig1) including figure number on figure in file.
 * Check Su comments
+* Fix lookseq
+
