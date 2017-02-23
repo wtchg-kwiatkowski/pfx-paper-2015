@@ -1,0 +1,1 @@
+This directory contains IPython notebooks used to generate all the main figure components.
